@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T02:56:15.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.20" etag="p83kFk5dGh6-VxNL68Of" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-23T05:58:33.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="keMsxxL5tLgQzmDLxS9K" version="20.8.20" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="提升风暴潮的预报精度" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="59" y="110" width="710" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" target="Y2Lpt3KpgBR425DeF8ti-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="155" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" target="Y2Lpt3KpgBR425DeF8ti-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="155" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" target="Y2Lpt3KpgBR425DeF8ti-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="155" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-1" value="数据" style="rounded=0;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="20" y="130" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="Y2Lpt3KpgBR425DeF8ti-2" target="Y2Lpt3KpgBR425DeF8ti-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-2" value="数据量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="130" y="65" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-3" value="数据质量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="130" y="155" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="Y2Lpt3KpgBR425DeF8ti-4" target="Y2Lpt3KpgBR425DeF8ti-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-4" value="数据类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="130" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Y2Lpt3KpgBR425DeF8ti-15" target="Y2Lpt3KpgBR425DeF8ti-16" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Y2Lpt3KpgBR425DeF8ti-15" target="Y2Lpt3KpgBR425DeF8ti-17" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Y2Lpt3KpgBR425DeF8ti-15" target="Y2Lpt3KpgBR425DeF8ti-18" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-15" value="模型" style="rounded=0;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="400" y="130" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-16" value="基于实测数据+机器学习单站预测模型（MLP）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="540" y="30" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-17" value="基于深度学习的单站预测模型（SSFNN, Storm Surge Forecasting Neural Netwok）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="540" y="125" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-18" value="基于迁移学习的多站预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="540" y="200" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Y2Lpt3KpgBR425DeF8ti-20" source="Y2Lpt3KpgBR425DeF8ti-15" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-20" value="基于深度学习的时空预测模型（ST-SSFNN，Spatial-temporal-SSFNN）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="540" y="280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-22" value="FVCOM数值模型：&lt;br&gt;1. 历史台风风暴潮数据库&lt;br&gt;2. 扰动台风风暴潮数据库&lt;br&gt;3. 极端情境风暴潮数据库" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="240" y="30" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Y2Lpt3KpgBR425DeF8ti-27" source="Y2Lpt3KpgBR425DeF8ti-3" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="265" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-27" value="数据误差对于预测模型性能的影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="260" y="152.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-29" value="2D空间场数据（NCEP、ERA5再分析风场）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="260" y="235" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2Lpt3KpgBR425DeF8ti-59" value="时间序列数据（台风参数如风气压经纬度等、潮汐、水位）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="260" y="275" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
