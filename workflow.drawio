@@ -1,9 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T15:09:37.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="y26ayr8R-kR2cwffONm-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T15:13:43.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yJjFj7Fzn8DklPKq7y5A" version="21.6.2" type="github">
   <diagram name="第 1 页" id="lDyxF0MO6uwVNwHS-30z">
-    <mxGraphModel>
+    <mxGraphModel dx="-1492" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Formulation of prediction problems&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="2752" y="370" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Data collection and feature selection&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="2892" y="450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Selection of proper ML methods&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="3034" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Model selection, development and evaluation&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2802" y="670" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-5" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Applying models in practice&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2652" y="600" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2812" y="420" as="sourcePoint" />
+            <mxPoint x="2872" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2824" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3012" y="470" as="sourcePoint" />
+            <mxPoint x="3082" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3072" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3089" y="600" as="sourcePoint" />
+            <mxPoint x="2922" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3089" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-9" value="&amp;nbsp; &amp;nbsp; Water level ? Inundation?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Peak value? Time series? &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Spatio-temporal?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3034" y="460" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-10" value="" style="endArrow=classic;html=1;curved=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2932" y="690" as="sourcePoint" />
+            <mxPoint x="3072" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3052" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-11" value="&lt;font face=&quot;Helvetica&quot;&gt;Need more data?&amp;nbsp;&lt;br&gt;Develop synthetic dataset?&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2777" y="510" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Re-select models&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Model comparison&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Model improvement&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2912" y="610" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-13" value="" style="endArrow=classic;html=1;curved=1;dashed=1;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2802" y="660" as="sourcePoint" />
+            <mxPoint x="2862" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2712" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-14" value="" style="endArrow=classic;html=1;curved=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2782" y="710" as="sourcePoint" />
+            <mxPoint x="2702" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2722" y="704" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-15" value="&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp;Conventional ML models?&amp;nbsp;&lt;br&gt;DL models?&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3062" y="654" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-16" value="&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Statistical forecasting?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Hybrid model?&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="690" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
