@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T15:16:33.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EF0g9UihEoot4dwmBSsy" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T06:59:00.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Habl07mflpLIOVDw9m6b" version="21.6.5" type="github">
   <diagram name="第 1 页" id="lDyxF0MO6uwVNwHS-30z">
-    <mxGraphModel dx="-1492" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1492" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yxQb0LbbGBMiJ5WvuwGd-9" value="&amp;nbsp; &amp;nbsp; Water level ? Inundation?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Peak value? Time series? &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Spatio-temporal?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="3034" y="460" width="230" height="40" as="geometry" />
+          <mxGeometry x="2640" y="430" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxQb0LbbGBMiJ5WvuwGd-10" value="" style="endArrow=classic;html=1;curved=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -58,8 +58,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-11" value="&lt;font face=&quot;Helvetica&quot;&gt;Need more data?&amp;nbsp;&lt;br&gt;Develop synthetic dataset?&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="2777" y="510" width="160" height="50" as="geometry" />
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-11" value="&lt;font face=&quot;Helvetica&quot;&gt;Need more data?&amp;nbsp;&lt;br&gt;Better feature representation?&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="2777" y="510" width="173" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yxQb0LbbGBMiJ5WvuwGd-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Re-select models&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Model comparison&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Model improvement&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2912" y="610" width="160" height="50" as="geometry" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="yxQb0LbbGBMiJ5WvuwGd-16" value="&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Statistical forecasting?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Hybrid model?&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2570" y="690" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CCpp5TXgSwMZIf0cz4Bc-1" value="&amp;nbsp; &amp;nbsp; Observational or Synthetic data?&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Temporal or spatial features?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="460" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
