@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T06:59:00.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Habl07mflpLIOVDw9m6b" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T05:48:10.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="utXvNa9-AdGn194xFC8e" version="21.6.5" type="github">
   <diagram name="第 1 页" id="lDyxF0MO6uwVNwHS-30z">
     <mxGraphModel dx="-1492" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Formulation of prediction problems&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Formulation of prediction problems&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="2752" y="370" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Data collection and feature selection&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Data collection and feature selection&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="2892" y="450" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Selection of proper ML methods&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Selection of proper ML methods&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="3034" y="540" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Model selection, development and evaluation&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Model selection, development and evaluation&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="2802" y="670" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-5" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Applying models in practice&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-5" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font&gt;Applying models in practice&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="2650" y="604" width="102" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yxQb0LbbGBMiJ5WvuwGd-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;curved=1;strokeWidth=2;" parent="1" edge="1">
@@ -46,7 +46,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-9" value="&amp;nbsp; &amp;nbsp; Water level ? Inundation?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Peak value? Time series? &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Spatio-temporal?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
+        <mxCell id="yxQb0LbbGBMiJ5WvuwGd-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; Water level ? Inundation?&lt;br style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Peak value? Time series? &lt;br style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Spatio-temporal?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontColor=#666666;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="2640" y="430" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxQb0LbbGBMiJ5WvuwGd-10" value="" style="endArrow=classic;html=1;curved=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#666666;" parent="1" edge="1">
@@ -88,7 +88,7 @@
         <mxCell id="yxQb0LbbGBMiJ5WvuwGd-16" value="&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Statistical forecasting?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Hybrid model?&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2570" y="690" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CCpp5TXgSwMZIf0cz4Bc-1" value="&amp;nbsp; &amp;nbsp; Observational or Synthetic data?&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Temporal or spatial features?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="CCpp5TXgSwMZIf0cz4Bc-1" value="&amp;nbsp; &amp;nbsp; Observational or Synthetic data?&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Temporal or spatial features?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="3040" y="460" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
