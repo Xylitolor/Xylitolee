@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="第 1 页" id="vakGan-ftT3iceLafQWI">
-    <mxGraphModel dx="1341" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2382" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,6 +89,21 @@
         </mxCell>
         <mxCell id="8JwG-Oh4VrNy21shM6Q0-37" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;集成学习模块&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8JwG-Oh4VrNy21shM6Q0-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.49;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.49;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8JwG-Oh4VrNy21shM6Q0-28" target="8JwG-Oh4VrNy21shM6Q0-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="584" as="sourcePoint" />
+            <mxPoint x="930" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JwG-Oh4VrNy21shM6Q0-41" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;Label&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="8JwG-Oh4VrNy21shM6Q0-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JwG-Oh4VrNy21shM6Q0-44" value="&lt;span style=&quot;line-height: 18px; font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;海洋多变量预报&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="571.25" width="60" height="178.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8JwG-Oh4VrNy21shM6Q0-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="560" width="380" height="207.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
