@@ -488,16 +488,16 @@
           <mxGeometry x="-1373" y="661.9999999999999" width="18" height="17" as="geometry" />
         </mxCell>
         <mxCell id="nv3LQGB9Mr0urdslOvGg-548" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1934" y="370" width="60" height="150" as="geometry" />
+          <mxGeometry x="-1934" y="370" width="60" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nv3LQGB9Mr0urdslOvGg-549" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;LSTM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1f7d0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1929" y="455.25" width="50" height="22.5" as="geometry" />
+          <mxGeometry x="-1928" y="440" width="50" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="nv3LQGB9Mr0urdslOvGg-550" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;LSTM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1929" y="486.5" width="50" height="22.5" as="geometry" />
+          <mxGeometry x="-1929" y="468.94" width="50" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="nv3LQGB9Mr0urdslOvGg-552" value="$$\vdots$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="-1913" y="403" width="18" height="47" as="geometry" />
+          <mxGeometry x="-1913" y="403" width="18" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nv3LQGB9Mr0urdslOvGg-558" value="&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(153, 153, 153); font-size: 14px;&quot;&gt;(None, 64)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(153, 153, 153); font-size: 14px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;LSTM&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-1943.5" y="321" width="79" height="30" as="geometry" />
@@ -831,10 +831,10 @@
           <mxGeometry x="-1745" y="867.25" width="50" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="nv3LQGB9Mr0urdslOvGg-690" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$X_{t-1}$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1973.5" y="456.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1973.5" y="435.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nv3LQGB9Mr0urdslOvGg-692" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$X_{t}$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1973.5" y="486.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1973.5" y="465.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nv3LQGB9Mr0urdslOvGg-693" value="$$X_{t-5}$$" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-1912" y="809.25" width="30" height="30" as="geometry" />
